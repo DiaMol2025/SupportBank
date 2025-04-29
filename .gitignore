@@ -1,5 +1,5 @@
 data/
-*.lock
+poetry.lock
 pyproject.toml
-*.ipynb
+check.ipynb
 .idea/
