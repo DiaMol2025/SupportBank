@@ -1,4 +1,5 @@
 data/
-.lock
-.toml
-.ipynb
+*.lock
+*.toml
+*.ipynb
+.idea/
